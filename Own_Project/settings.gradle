@@ -1,2 +1,4 @@
 rootProject.name = 'Own_Project'
+include 'algorithm'
+include 'ThreadTest'
 
